@@ -1,1 +1,1 @@
-# final-inventory-software-for-NOF-food-makers
+# inventory-and-production-scheduler
